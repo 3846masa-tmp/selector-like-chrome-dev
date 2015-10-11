@@ -1,6 +1,6 @@
 {
   "name": "selector-like-chrome-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "$, $$, $x like chrome-dev.",
   "main": "lib/main.js",
   "scripts": {
@@ -19,5 +19,14 @@
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.3",
     "eslint": "^1.6.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3846masa/selector-like-chrome-dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/3846masa/selector-like-chrome-dev/issues"
+  },
+  "homepage": "https://github.com/3846masa/selector-like-chrome-dev#readme"
 }
